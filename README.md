@@ -2,6 +2,9 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel RURANGAMIRWA </h1>
+<h3 align="center">Software Web Developer</h3>
+
  ### About Me :man:
  
 <h4 align="left">
@@ -14,10 +17,9 @@
 - 👯 I’m looking to collaborate and contributing to open source projects😄.<br>
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm 🌱.<br>
 - 💬 Ask me about **Frontend-Web design And Full-stack applications **✨️.. </br>
-- 📫 How to reach me: <a href="mailto:ismailmunyentwari9@gmail.com">Send me Email📧</a><br>
+- 📫 How to reach me: <a href="mailto:samuelrurangamirwa@gmail.com">Send me Email📧</a><br>
 - ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitar and some musical instruments ... 🎵 
     
-    <br>
 </p>
 
 ## 🌐 Socials:
