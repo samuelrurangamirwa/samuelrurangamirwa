@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel RURANGAMIRWA </h1>
 <h3 align="center">Software Web Developer</h3>
+<p>
+As a software developer, I design, develop, and maintain software applications and programs using various software development tools and frameworks. I possess excellent problem-solving and analytical skills and have a detail-oriented approach. I have strong communication and collaboration skills, and I'm dedicated to staying up-to-date with the latest technologies and trends in software development. I conduct testing, debugging, maintenance, and provide technical support to end-users. I work well under pressure, prioritize tasks, and meet deadlines. My contributions help drive modern businesses and shape our digital world. 
+</p>
 
  ### About Me :man:
  
