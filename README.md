@@ -35,7 +35,7 @@ logo=mongodb&logoColor=white"> ![Postgres](https://img.shields.io/badge/postgres
   <img src="https://github-readme-stats.vercel.app/api?username=samuelrurangamirwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrurangamirwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </p>
- ## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
 
 # 🌐 Socials:
