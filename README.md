@@ -13,7 +13,7 @@
 - 👨‍💻  I’m currently buildind some side project and learning some high level programming skills🌍️.<br>
 - 👯 I’m looking to collaborate and contributing to open source projects😄.<br>
 - 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm 🌱.<br>
-- 💬 Ask me about **Frontend-Web design And Full-stack applications **✨️.. <br>
+- 💬 Ask me about **Frontend-Web design And Full-stack applications **✨️.. </br>
 - 📫 How to reach me: `samuelrurangamirwa@gmail.com`.<br>
 - ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitar and some musical instruments ... 🎵 
     
