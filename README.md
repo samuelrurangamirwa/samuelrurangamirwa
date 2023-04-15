@@ -18,7 +18,6 @@ logo=mongodb&logoColor=white"> ![Postgres](https://img.shields.io/badge/postgres
  # About Me :man:
  
 <h4 align="left">
-  <br>
 - 📚 My Title: Full-Stack developer 🧰<br>
 - 📚My Location: East Africa 🌍<br>
 - 🤝 I’m available for freelancing.💸💰<br>
@@ -36,17 +35,17 @@ logo=mongodb&logoColor=white"> ![Postgres](https://img.shields.io/badge/postgres
   <img src="https://github-readme-stats.vercel.app/api?username=samuelrurangamirwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrurangamirwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1061347122416463923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-rurangamirwa-3247a2247) 
 </p>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samuelrurangamirwa&icon=8&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  # 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/samuel001) 
 
 
