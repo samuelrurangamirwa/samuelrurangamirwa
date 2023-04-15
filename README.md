@@ -2,20 +2,24 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-###
-
+ ### About Me :man:
+ 
 <h4 align="left">
-  📚 My Title: Full-Stack developer 🧰<br>
-  📚My Location: East Africa 🌍<br>
-  🤝 I’m available for freelancing.💸💰<br>
-  ✨ Creating bugs since 2019🙄<br>
-  📚 I'm currently honing my skills 🍧<br>
-  🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>
-  📫 How to reach me, <a href="mailto:ismailmunyentwari9@gmail.com">Send me Email📧</a><br>
-  🔗 Know about my experiences <a href="https://www.linkedin.com/in/munyentwari-ismail-754718191/">Linked</a><br>
-  🎲 Fun fact: I'm funny 🤣</h4>
-
-###
+  <br>
+- 📚 My Title: Full-Stack developer 🧰
+- 📚My Location: East Africa 🌍
+- 🤝 I’m available for freelancing.💸💰
+- 🔭 Currently, I’m looking to collaborate on and contribute to open-source projects 🥅.
+- 👨‍💻  I’m currently buildind some side project and learning some high level programming skills🌍️.
+- 👯 I’m looking to collaborate and contributing to open source projects😄.
+- 🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm 🌱.
+- 💬 Ask me about **Frontend-Web design And Full-stack applications **✨️.. 
+- 📫 How to reach me: `samuelrurangamirwa@gmail.com`.
+- ⚡ Fun fact: I love listening to music 🎧 , playing Piano, Guitar and some musical instruments ... 🎵 
+    
+    <br>
+</p>
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1061347122416463923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-rurangamirwa-3247a2247) 
