@@ -1,3 +1,17 @@
+###
+
+<h4 align="left">
+  📚 My Title: Full-Stack developer 🧰<br>
+  📚My Location: East Africa 🌍<br>
+  🤝 I’m available for freelancing.💸💰<br>
+  ✨ Creating bugs since 2019🙄<br>
+  📚 I'm currently honing my skills 🍧<br>
+  🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>
+  📫 How to reach me, <a href="mailto:ismailmunyentwari9@gmail.com">Send me Email📧</a><br>
+  🔗 Know about my experiences <a href="https://www.linkedin.com/in/munyentwari-ismail-754718191/">Linked</a><br>
+  🎲 Fun fact: I'm funny 🤣</h4>
+
+###
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1061347122416463923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-rurangamirwa-3247a2247) 
@@ -15,9 +29,6 @@ logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samuelrurangamirwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samuelrurangamirwa&icon=8&color=0)](https://visitcount.itsvg.in)
