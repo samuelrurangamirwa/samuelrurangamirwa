@@ -42,12 +42,12 @@ logo=mongodb&logoColor=white"> ![Postgres](https://img.shields.io/badge/postgres
   </p>
 <hr>
 <h4> 🔝 Top Contributed Repo</h4>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
 
 <hr>
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1061347122416463923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-rurangamirwa-3247a2247) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1061347122416463923) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-rurangamirwa) 
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=samuelrurangamirwa&icon=8&color=0)](https://visitcount.itsvg.in)
