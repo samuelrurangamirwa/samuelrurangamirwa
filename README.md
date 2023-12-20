@@ -2,7 +2,6 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samuel RURANGAMIRWA </h1>
-<h3 align="center">Software Web Developer</h3>
 <p>
 An accomplished technologist excelling in both web development and mobile app innovation. Adept in an array of languages and frameworks, crafting immersive websites with seamless interfaces and robust functionalities. Equally skilled in mobile app creation for iOS and Android, pioneering intuitive designs and groundbreaking features. Renowned for collaborative prowess, dedication to excellence, and a relentless pursuit of technological innovation.
 </p>
