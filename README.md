@@ -13,77 +13,10 @@ An accomplished technologist excelling in both web development and mobile app in
 <p align="left" >I may not speak the language of love 💔, but I do speak
   the language of bugs - I'm a software developer who works <br> with languages and other technologies like :</p>
   
-<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px;">
-  <div style="border: 1px solid #ccc; padding: 15px;">
-    <h3>Programming Languages:</h3>
-      
-  <ul>
-    <li><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white"> - CSS3</li>
-    <li><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"> - HTML5</li>
-    <li><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"> - JavaScript</li>
-    <li><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white"> - PHP</li>
-    <li><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"> - Python</li>
-    <li><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"> - TypeScript</li>
-  </ul>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 15px;">
-<h3>Frontend and UI Libraries/Frameworks:</h3>
-
-<ul>
-  <li><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white"> - Bootstrap</li>
-  <li><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white"> - Chart.js</li>
-  <li><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&amp;logo=material-ui&amp;logoColor=white"> - Material-UI</li>
-  <li><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"> - React</li>
-  <li><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white"> - React Router</li>
-  <li><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&amp;logo=redux&amp;logoColor=white"> - Redux</li>
-  <li><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white"> - SASS</li>
-  <li><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white"> - Tailwind CSS</li>
-</ul>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 15px;">
-<h3>Backend Frameworks and Tools:</h3>
-
-<ul>
-  <li><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"> - Django</li>
-  <li><img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&amp;logo=django&amp;logoColor=white&amp;color=ff1709&amp;labelColor=gray"> - Django REST Framework</li>
-  <li><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white"> - Laravel</li>
-  <li><img alt="Symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&amp;logo=symfony&amp;logoColor=white"> - Symfony</li>
-</ul>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 15px;">
-<h3>Databases:</h3>
-
-<ul>
-  <li><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white"> - MariaDB</li>
-  <li><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white"> - SQLite</li>
-  <li><div></div> - MongoDB</li><li><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"> - PostgreSQL</li>
-</ul>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 15px;">
-
-<h3>Design and Prototyping Tools:</h3>
-
-<ul>
-  <li><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white"> - Figma</li>
-  <li><img alt="Gimp Gnu Image Manipulation Program" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&amp;logo=gimp&amp;logoColor=FFFFFF"> - GIMP (GNU Image Manipulation Program)</li>
-  <li><img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&amp;logo=Adobe%20XD&amp;logoColor=#FF61F6"> - Adobe XD</li></ul>
-  </div>
-
-  <div style="border: 1px solid #ccc; padding: 15px;">
-  
-  <h3>Other Technologies and Tools:</h3>
-  <ul>
-    <li><img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"> - Linux</li>
-    <li><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white"> - Docker</li>
-    <li><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white"> - Postman</li>
-  </ul>
-  </div>
-  
-  </div>
+| Programming Languages           | Frontend and UI Libraries/Frameworks | Backend Frameworks and Tools         | Databases                          | Design and Prototyping Tools |
+|---------------------------------|---------------------------------------|--------------------------------------|------------------------------------|------------------------------|
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) CSS3 <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) HTML5 <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) PHP <br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) TypeScript | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) Bootstrap <br> ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) Chart.js <br> ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) Material-UI <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React <br> ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) React Router <br> ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) Redux <br> ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) SASS <br> ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) Tailwind CSS | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) Django <br> ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&amp;color=ff1709&amp;labelColor=gray) Django REST Framework <br> ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) Laravel <br> ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) Symfony | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) MariaDB <br> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) SQLite <br> MongoDB (No badge available) <br> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) PostgreSQL | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) Figma <br> ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) GIMP (GNU Image Manipulation Program) <br> ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) Adobe XD |
+| Linux <br> ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Docker <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | Postman <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 <hr>
 
