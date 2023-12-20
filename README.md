@@ -13,7 +13,7 @@ An accomplished technologist excelling in both web development and mobile app in
 <p align="left" >I may not speak the language of love 💔, but I do speak
   the language of bugs - I'm a software developer who works <br> with languages and other technologies like :</p>
   
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px;">
   <div style="border: 1px solid #ccc; padding: 15px;">
     <h3>Programming Languages:</h3>
       
@@ -26,6 +26,7 @@ An accomplished technologist excelling in both web development and mobile app in
     <li><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"> - TypeScript</li>
   </ul>
 </div>
+
 <div style="border: 1px solid #ccc; padding: 15px;">
 <h3>Frontend and UI Libraries/Frameworks:</h3>
 
