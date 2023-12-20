@@ -27,7 +27,6 @@ An accomplished technologist excelling in both web development and mobile app in
 
 <hr>
 
-# About Me :man:
 ## Exceptional Qualities:
 
 ### Pinnacle Problem-Solving Prowess:
