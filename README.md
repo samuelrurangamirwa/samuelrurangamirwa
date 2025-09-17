@@ -41,7 +41,6 @@ Demonstrates an unwavering commitment to perpetual learning, adapting effortless
 ### Visionary Innovations Shaping Industries
 Drives transformative changes in modern businesses, leading the charge in shaping the digital landscape through visionary and groundbreaking software solutions.
 
----
 
 ## Unrivaled Proficiencies at Work
 
@@ -56,10 +55,6 @@ Exemplifies unwavering commitment and expertise in managing time under pressure,
 <hr>
 <br>
 <br>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelrurangamirwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrurangamirwa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </p>
 <hr>
 <h4> 🔝 Top Contributed Repo</h4>
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
