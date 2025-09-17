@@ -6,8 +6,6 @@
 An accomplished technologist excelling in both web development and mobile app innovation. Adept in an array of languages and frameworks, crafting immersive websites with seamless interfaces and robust functionalities. Equally skilled in mobile app creation for iOS and Android, pioneering intuitive designs and groundbreaking features. Renowned for collaborative prowess, dedication to excellence, and a relentless pursuit of technological innovation.
 </p>
 
-<hr>
-
 # 💻 Tech Stack: 
 
 <p align="left" >I may not speak the language of love 💔, but I do speak
@@ -25,7 +23,6 @@ An accomplished technologist excelling in both web development and mobile app in
 |  | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |  |  |  |  |
 
 
-<hr>
 
 ## Exceptional Qualities
 
@@ -52,11 +49,6 @@ Conducts exhaustive testing and provides unparalleled technical support, ensurin
 
 ### Unyielding Time Management Mastery
 Exemplifies unwavering commitment and expertise in managing time under pressure, flawlessly prioritizing tasks, and unfailingly meeting stringent deadlines.
-<hr>
-
-<h4> 🔝 Top Contributed Repo</h4>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
-
 <hr>
 
 ### 🌐 Socials:
