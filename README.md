@@ -53,9 +53,7 @@ Conducts exhaustive testing and provides unparalleled technical support, ensurin
 ### Unyielding Time Management Mastery
 Exemplifies unwavering commitment and expertise in managing time under pressure, flawlessly prioritizing tasks, and unfailingly meeting stringent deadlines.
 <hr>
-<br>
-<br>
-<hr>
+
 <h4> 🔝 Top Contributed Repo</h4>
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrurangamirwa&theme=radical&hide_border=true">
 
